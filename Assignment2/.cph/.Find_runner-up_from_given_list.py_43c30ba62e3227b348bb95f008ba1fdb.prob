@@ -1,0 +1,1 @@
+{"name":"Local: Find_runner-up_from_given_list","url":"f:\\PythonCLG\\Assignments\\Assignment2\\Find_runner-up_from_given_list.py","tests":[{"id":1643257161358,"input":"5\n2 3 6 6 5","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\PythonCLG\\Assignments\\Assignment2\\Find_runner-up_from_given_list.py","group":"local","local":true}
